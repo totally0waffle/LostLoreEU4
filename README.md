@@ -22,7 +22,7 @@ Located south of Iceland, Frisland is a mysterious nation colonized by the vikin
 Located on the shore of California in a valley surrounded by mountains, Fusang a Chinese and Japanese settler colony similar to those of the lost vikings. Fusang is nustled in a mountain valley with its only openening outwards being the great ocean. Though this nation cannot build boats and has no outward communication the nation is rich and prosperous with its supply of gold, copper and paper. Fusangs culture is a hybrid of the cultures that originally colonized this region of California and has sight and knowledge of its former home lands while they do not. Fusang's expansion relies on pushing back out into the ocean with the quest of unifying their people under one name "Fusang". This will be a harder nation relying on overcoming the lack of a navy by using its diplmatic skill to isolate and subjegate Islands on its pathway to Asia. This will be a diplomatic focused nation that has high ability to play tall in order to overcome the nations around it with economic prowess.
 
 ## Hyperborea
-Located at the northern most part of the map, Hyperborea is seperated from the rest of the world due to the Ice wall that blocks anyone from passing through and into the north. Hyperborea possesses the ability of Immortal rulers and has the ability to take great rulers from around the world as their own. Though Hyperborea cycles through leaders every 8 years they are able to choose from 3 of the worlds best leaders (minimum stat count is 15 total pp points and age minimum is 50). This will trigger a ruler death event in whichever nation they choose and will turn that leader immortal but revert all of their other traits to random. Hyperborea will be trapped in permanent winter but due to the high stat count of their leader will overcome the permafrost and build a winter kingdom. Similar to Agartha is Hyperboreas leader dies or they have a leader with a stat count of less than 15 it will push Hyperborea into a dark age which may allow the ice wall to be traversed. The icewall will not allow passers by through it as it will be fog of warred with no option to explore it and even if they do the provinces will contain such high attrition it will wipe out armies in an instant. However in a hyperborean dark age or in the event that the mission to pass the ice wall is completed the attrition and fort defence buff will be removed.
+Located at the northern most part of the map, Hyperborea is seperated from the rest of the world due to the Ice wall that blocks anyone from passing through and into the north. Hyperborea possesses the ability of Immortal rulers and has the ability to take great rulers from around the world as their own. Though Hyperborea cycles through leaders every 8 years they are able to choose from 3 of the worlds best leaders (minimum stat count is 15 total pp points and age minimum is 50). This will trigger a ruler death event in whichever nation they choose and will turn that leader immortal but revert all of their other traits to random. Hyperborea will be trapped in permanent winter but due to the high stat count of their leader will overcome the permafrost and build a winter kingdom. Similar to Agartha if Hyperboreas leader dies or they have a leader with a stat count of less than 15 it will push Hyperborea into a dark age which may allow the ice wall to be traversed. The icewall will not allow passers by through it as it will be fog of warred with no option to explore it and even if they do the provinces will contain such high attrition it will wipe out armies in an instant. However in a hyperborean dark age or in the event that the mission to pass the ice wall is completed the attrition and fort defence buff will be removed.
 
 ## Kerguelenia
 Located south of India and Lemuria, a rich island nation known for its spices and mass fishing practices the provinces on this continent will profit from higher goods produced count due to their climate and distance from any other land mass. Though this continent can be discovered by colonists its nation will feature high naval ideas and skills to rival that of the English. This nation will utilize the austrlian culture but benefit from already leaving the tribal status and beginning as a republic with options to branch off to a peoples republic or even going to the extreme of becoming a stateless society.
@@ -46,13 +46,23 @@ Located on Greenland, Greenland will get expanded to compensate for this new nat
 Located east of Australia and Encompassing all of new zealand, Zealandia will be a larger form of new zealand with even more tribal nations. Similar in size to australia it will be much more lush a great option for colonization if the tribes don't unite first! Due to its near perfect environemnt tribes will get a much better start compared to the current new zealand equivalent and will start with a series of smaller kingdoms that will function similar to chinas tributary system. Because of Zealandias close proximity to Austrlia its region will be transformed aswell into a sister Heavenly Kingdom that will have the same tributary mechanics as Zealandia but will begin in a personal union with the leader of Zealandia, though this will come at a cost as both nations are in a desperate fight for who controls the Union.
 
 ## New & Updated Mission Trees
-England - New missions focused on expanding its control of doggerland however now instead of having 2 branching options at the start of the game focused on unting france or going colonial they will also now have a 3 3rd option to unite doggerland and form "The North".
-Scotland - New Mission tree focused on forming the nation of Auld by uniting itself, france, england and the former Isles, with later goals to push on Scandanavia in a form of revenge to form the nation of "The North".
-Ireland - New missions focused on uniting their region surrounded by canals and mountains and later going onto attempt to conquor all of Doggerland and either defeat the HRE or Become its ruler.
-Norway - New missions to search for the lost viking colony and either invite them back to norway as a colony for norway or to accept the vikings as their leader.
-Siberian Tribes - restructured mission tree allowing the tribes to seek independence, join either hyperborea as a pseudo external agent, or become defenders of the land bridge.
-Japan - New missions related to Fusangs expansion and its slow crawl back to Japan.
-China - New missions related to Fusangs expansion and its slow crawl back to China.
-The Isles - Will be renamed in order to compensate for it lacking any "Isles".
-Russia - Updated Focus Tree with new branches to explore hyperborea and defend against.
-And More!
+- England - New missions focused on expanding its control of doggerland however now instead of having 2 branching options at the start of the game focused on unting france or going colonial they will also now have a 3 3rd option to
+unite doggerland and form "The North".
+  
+- Scotland - New Mission tree focused on forming the nation of Auld by uniting itself, france, england and the former Isles, with later goals to push on Scandanavia in a form of revenge to form the nation of "The North".
+  
+- Ireland - New missions focused on uniting their region surrounded by canals and mountains and later going onto attempt to conquor all of Doggerland and either defeat the HRE or Become its ruler.
+  
+- Norway - New missions to search for the lost viking colony and either invite them back to norway as a colony for norway or to accept the vikings as their leader.
+  
+- Siberian Tribes - restructured mission tree allowing the tribes to seek independence, join either hyperborea as a pseudo external agent, or become defenders of the land bridge.
+  
+- Japan - New missions related to Fusangs expansion and its slow crawl back to Japan.
+  
+- China - New missions related to Fusangs expansion and its slow crawl back to China.
+  
+- The Isles - Will be renamed in order to compensate for it lacking any "Isles".
+  
+- Russia - Updated Focus Tree with new branches to explore hyperborea and defend against.
+  
+- And More!

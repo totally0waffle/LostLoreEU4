@@ -66,3 +66,6 @@ unite doggerland and form "The North".
 - Russia - Updated Focus Tree with new branches to explore hyperborea and defend against.
   
 - And More!
+
+## Credits Due
+For some of the more niche continents and regions [this](https://www.deviantart.com/breakingerr/art/Mythical-and-Submerged-land-of-the-World-Info-880272045) map was very helpful, thanks to deviantart user Breakingerr

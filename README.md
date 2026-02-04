@@ -8,7 +8,7 @@ Located in Antarctica, agartha has unique features that revolve around permanent
 
 ## Atlantis
 Located in the north atlantic, Atlantis is a brand new continent containing its own set of unique countries all fighting for power over the mysterious advanced continent. Using the high american tech group and access to institutions atlatnis will always stay slightly ahead in technology than most. The continent remains completely hidden under fog of war that is undisverable however once the continent is unified either under personal union, vassalage or conquest then Atlantis can emerge to either fight the european invaders victoriously or become just another british colony. This will use a customized Daimyo system.
-[image of atlantis](/Examples/Atlantis.png)
+<picture src="/Examples/Atlantis.png">[image of atlantis](/Examples/Atlantis.png)</picture>
 
 ## Cassiterides
 Located northwest of Iberia, The Cassiterides are a collection of small islands occupied by an ancient people "The Furies" though they are a tribal people that roam these islands (in game context connected via straits) grazing their cattle, the islands are rich in precious goods. In game the islands will be full of Iron, Copper and Gold with rarer spawns for cattle and fish. The islands will be shrouded from europeans however due to their close proximity to europe it still will allow this nation to dominate trade nodes in the region and thrive off of institutions and technology spread from europe.

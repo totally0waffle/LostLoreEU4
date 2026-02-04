@@ -8,7 +8,7 @@ Located in Antarctica, agartha has unique features that revolve around permanent
 
 ## Atlantis
 Located in the north atlantic, Atlantis is a brand new continent containing its own set of unique countries all fighting for power over the mysterious advanced continent. Using the high american tech group and access to institutions atlatnis will always stay slightly ahead in technology than most. The continent remains completely hidden under fog of war that is undisverable however once the continent is unified either under personal union, vassalage or conquest then Atlantis can emerge to either fight the european invaders victoriously or become just another british colony. This will use a customized Daimyo system.
-<picture src="/Examples/Atlantis.png">[image of atlantis](/Examples/Atlantis.png)</picture>
+<picture><img src="/Examples/Atlantis.png"/></picture>
 
 ## Cassiterides
 Located northwest of Iberia, The Cassiterides are a collection of small islands occupied by an ancient people "The Furies" though they are a tribal people that roam these islands (in game context connected via straits) grazing their cattle, the islands are rich in precious goods. In game the islands will be full of Iron, Copper and Gold with rarer spawns for cattle and fish. The islands will be shrouded from europeans however due to their close proximity to europe it still will allow this nation to dominate trade nodes in the region and thrive off of institutions and technology spread from europe.
@@ -30,7 +30,7 @@ Located south of India and Lemuria, a rich island nation known for its spices an
 
 ## Lemuria
 Located south of India and the Arabian continents, Lemuria is a large subcontinent hidden by fog of war until revelealed by a mission that can be accomplished by the nation (it will also require a decision). There will be a number of small nations within this continent however only one can prevail in order to break the shroud over the continent. The most notable nation is the "Sea People" who like story or yor will have the ability to keep up the shroud on the continent and use its pirate nation features in order to pillage the continents around it. This nation and most of the continent is comprise of lost culture like the Romans, Pontic and the ancient Mesopotamians. This will be a continent filled to the brim with the lost cultures and some new ones from the lands around them.
-[image of Lemuria](/Examples/Lemuria.png)
+<picture><img src="/Examples/Lemuria.png"/></picture>
 
 ## Mu
 Located in the Pacific Ocean Encompassing Hawaii, Fiji and the Eastern Islands, Mu is a smaller continent that takes encompasses most of the Pacific ocean. Though it will be discoverable by colonists it will feature some of the natons that already exist on the islands in the region such as the Hawaian tribes that will still have the same goals of uniting their region. it will also include the nation of Easter based on the easter island Moai. This region will feature a unique trade good similar to cloves simply titled "Monoliths" which will be based off the price of cloth with their own unique manufactory "Masonries". This land wont be fully occupied but instead will consist of different forms of tribal governments ranging from tribal hordes to migratory tribes and federations.

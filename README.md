@@ -12,6 +12,7 @@ Located in the north atlantic, Atlantis is a brand new continent containing its 
 
 ## Cassiterides
 Located northwest of Iberia, The Cassiterides are a collection of small islands occupied by an ancient people "The Furies" though they are a tribal people that roam these islands (in game context connected via straits) grazing their cattle, the islands are rich in precious goods. In game the islands will be full of Iron, Copper and Gold with rarer spawns for cattle and fish. The islands will be shrouded from europeans however due to their close proximity to europe it still will allow this nation to dominate trade nodes in the region and thrive off of institutions and technology spread from europe.
+<picture><img src="/Examples/Cassiterides.png"/></picture>
 
 ## Doggerland
 Located in the British Isles, Doggerland is the greater continent that England, Scotland and Ireland are located within. This new landmass will connect the British isle's, The Faroes, and Scandanavia into a larger continent with their own unique collection of new nations featuring hybrid cultures and expanded borders of the existing nations with some of these being included into the Burgundy Personal Union and some being in the holy Roman Empire.
